@@ -1,0 +1,144 @@
+[
+    {
+        "profilePicture": "/src/assets/images/profilePictures/profilePicture1.png",
+        "name": "Mark Gilbert",
+        "rol": "UI Designer",
+        "tags": [
+            {
+                "name": "Figma",
+                "color": "#F24E1E",
+                "background": "#f24f1e84"
+            },
+            {
+                "name": "Sketch",
+                "color": "#F7B32B",
+                "background": "#f7b32b86"
+            }
+        ],
+        "projects": 18,
+        "tasks": 834,
+        "connections": 129,
+        "iconConnection": "/src/assets/images/usuarioActivo.png",
+        "ConnectionStatus": "Connected"
+    },
+    {
+        "profilePicture": "/src/assets/images/profilePictures/profilePicture2.png",
+        "name": "Eugenia Parsons",
+        "rol": "Developer",
+        "tags": [
+            {
+                "name": "Angular",
+                "color": "#F24E1E",
+                "background": "#f24f1e84"
+            },
+            {
+                "name": "React",
+                "color": "#F7B32B",
+                "background": "#f7b32b86"
+            }
+        ],
+        "projects": 112,
+        "tasks": "2.31k",
+        "connections": "1.28k",
+        "iconConnection": "/src/assets/images/usuarioActivo.png",
+        "ConnectionStatus": "Connect"
+    },
+    {
+        "profilePicture": "/src/assets/images/profilePictures/profilePicture3.png",
+        "name": "Francis Byrd",
+        "rol": "Developer",
+        "tags": [
+            {
+                "name": "HTML",
+                "color": "#F24E1E",
+                "background": "#f24f1e84"
+            },
+            {
+                "name": "React",
+                "color": "#F7B32B",
+                "background": "#f7b32b86"
+            }
+        ],
+        "projects": 32,
+        "tasks": "1.25k",
+        "connections": 890,
+        "iconConnection": "/src/assets/images/usuarioActivo.png",
+        "ConnectionStatus": "Connect"
+    },
+    {
+        "profilePicture": "/src/assets/images/profilePictures/profilePicture4.png",
+        "name": "Leon Lucas",
+        "rol": "UI/UX Designer",
+        "tags": [
+            {
+                "name": "Figma",
+                "color": "#F24E1E",
+                "background": "#f24f1e84"
+            },
+            {
+                "name": "Sketch",
+                "color": "#F7B32B",
+                "background": "#f7b32b86"
+            },
+            {
+                "name": "Photoshop",
+                "color": "#FF61F6",
+                "background": "#ff61f77d"
+            }
+        ],
+        "projects": 86,
+        "tasks": "12.4k",
+        "connections": 890,
+        "iconConnection": "/src/assets/images/usuarioActivo.png",
+        "ConnectionStatus": "Connect"
+    },
+    {
+        "profilePicture": "/src/assets/images/profilePictures/profilePicture5.png",
+        "name": "Jayden Rogers",
+        "rol": "Full Stack Developer",
+        "tags": [
+            {
+                "name": "React",
+                "color": "#F24E1E",
+                "background": "#f24f1e84"
+            },
+            {
+                "name": "HTML",
+                "color": "#F7B32B",
+                "background": "#f7b32b86"
+            },
+            {
+                "name": "Node js",
+                "color": "#FF61F6",
+                "background": "#ff61f77d"
+            }
+        ],
+        "projects": 244,
+        "tasks": "23.8k",
+        "connections": "2.14k",
+        "iconConnection": "/src/assets/images/usuarioActivo.png",
+        "ConnectionStatus": "Connected"
+    },
+    {
+        "profilePicture": "/src/assets/images/profilePictures/profilePicture6.png",
+        "name": "Jeanette Powell",
+        "rol": "SEO",
+        "tags": [
+            {
+                "name": "Analisis",
+                "color": "#F24E1E",
+                "background": "#f24f1e84"
+            },
+            {
+                "name": "Writing",
+                "color": "#F7B32B",
+                "background": "#f7b32b86"
+            }
+        ],
+        "projects": 32,
+        "tasks": "1.28k",
+        "connections": "1.27k",
+        "iconConnection": "/src/assets/images/usuarioActivo.png",
+        "ConnectionStatus": "Connect"
+    }
+]
