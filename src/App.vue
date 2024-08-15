@@ -1,6 +1,6 @@
 <template>
     <div class="container">
-        <div style="width: 12%;">
+        <div class="sidebar">
             <SidebarComponent />
         </div>
         <div class="leftComponent">
@@ -34,12 +34,21 @@
 <style lang="scss" scoped>
     .container {
         display: flex;
+
+        .sidebar {
+            position: fixed;  // Fija la barra lateral en su lugar
+            top: 0;
+            left: 0;
+            width: 12%;
+            height: 100vh;  // Asegúrate de que cubra toda la altura de la ventana
+        }
         
         .leftComponent {
             display: flex;
             flex-direction: column;
             justify-content: center;
             width: 80%;
+            margin-left: 12%;
             margin-top: 20px;
         }
     }
